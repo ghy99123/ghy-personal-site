@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ghy-personal-site/static/css/main.371ebb5c.css",
-    "main.js": "/ghy-personal-site/static/js/main.ccf39b2e.js",
+    "main.js": "/ghy-personal-site/static/js/main.35553e72.js",
     "static/js/562.4c556983.chunk.js": "/ghy-personal-site/static/js/562.4c556983.chunk.js",
     "static/js/478.a477ab6e.chunk.js": "/ghy-personal-site/static/js/478.a477ab6e.chunk.js",
     "static/js/922.950c5cf1.chunk.js": "/ghy-personal-site/static/js/922.950c5cf1.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/209.04592873.chunk.js": "/ghy-personal-site/static/js/209.04592873.chunk.js",
     "index.html": "/ghy-personal-site/index.html",
     "main.371ebb5c.css.map": "/ghy-personal-site/static/css/main.371ebb5c.css.map",
-    "main.ccf39b2e.js.map": "/ghy-personal-site/static/js/main.ccf39b2e.js.map",
+    "main.35553e72.js.map": "/ghy-personal-site/static/js/main.35553e72.js.map",
     "562.4c556983.chunk.js.map": "/ghy-personal-site/static/js/562.4c556983.chunk.js.map",
     "478.a477ab6e.chunk.js.map": "/ghy-personal-site/static/js/478.a477ab6e.chunk.js.map",
     "922.950c5cf1.chunk.js.map": "/ghy-personal-site/static/js/922.950c5cf1.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.371ebb5c.css",
-    "static/js/main.ccf39b2e.js"
+    "static/js/main.35553e72.js"
   ]
 }
