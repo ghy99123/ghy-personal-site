@@ -34,8 +34,8 @@ const Index = () => (
         Hello, I&apos;m Hanyi! I am currently an IT graduate student at{' '}
         <a href="https://www.unimelb.edu.au/">the University of Melbourne</a>.
         Before that, I did my bachelor degree at{' '}
-        <a href="http://www.swu.edu.cn/">Southwest University</a>. I have had 3
-        terms of internship at <a href="https://skand.io/">Skand</a>,{' '}
+        <a href="http://admissions.swu.edu.cn/">Southwest University</a>. I have
+        had 3 terms of internship at <a href="https://skand.io/">Skand</a>,{' '}
         <a href="https://www.ximalaya.com/">Ximalaya FM</a> and{' '}
         <a href="https://www.lvanitech.com/">LvAn Tech, Ltd.</a> as fullstack
         developer, frontend developer, and mobile developer respectively.

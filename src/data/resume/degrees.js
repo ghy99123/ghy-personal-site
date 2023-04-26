@@ -8,7 +8,7 @@ const degrees = [
   {
     school: 'Southwest University',
     degree: 'B.Eng. Automation',
-    link: 'http://www.swu.edu.cn/',
+    link: 'http://admissions.swu.edu.cn/',
     year: 2017,
   },
 ];
